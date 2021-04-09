@@ -71,9 +71,7 @@ public class Simpson13 {
         } 
         catch (Exception e) {
             mensaje = "error de datos";
-        
         }
-         
         return mensaje; 
     }
     
